@@ -25,7 +25,7 @@ A demo of the plugin is available <a href="https://g79nix.csb.app/">HERE</a>
 ```
 
 ## Paramters
-size        Size of whole pulser,                   Integer
-width       Thickness if each circle,               Integer
-color       Color of circles (Color Names, HEX)     String 
-circles     Number of Circles                       Integer
+1. size: Size of whole pulser    Integer
+2. width: Thickness if each circle    Integer
+3. color: Color of circles (Color Names, HEX)    String 
+4. circles: Number of Circles    Integer
