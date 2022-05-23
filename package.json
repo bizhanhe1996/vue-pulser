@@ -1,6 +1,6 @@
 {
   "name": "vue-pulser",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A resposive SVG Pulser Loader for Vue 3",
   "keywords": [
     "vue",
@@ -9,7 +9,12 @@
     "Pulser",
     "Loader"
   ],
-
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bizhanhe1996/vue-pulser.git"
+  },
+  "license": "MIT",
+  "author": "Bizhan Hejazi",
   "main": "dist/vue-pulser.ssr.js",
   "browser": "dist/vue-pulser.esm.js",
   "module": "dist/vue-pulser.esm.js",
