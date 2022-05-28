@@ -1,5 +1,5 @@
 <div style="text-align:center">
-    <img width="250" height="250" src="./pulser.gif"/>
+    <img width="250" height="250" src="https://github.com/bizhanhe1996/vue-pulser/blob/master/pulser.gif?raw=true"/>
 </div>
     
 # vue-pulser

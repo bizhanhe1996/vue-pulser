@@ -1,6 +1,6 @@
 {
   "name": "vue-pulser",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "A resposive SVG Pulser Loader for Vue 3",
   "keywords": [
     "vue",
