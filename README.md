@@ -1,3 +1,7 @@
+<div style="text-align:center">
+    <img width="250" height="250" src="./pulser.gif"/>
+</div>
+    
 # vue-pulser
 A resposive SVG Pulser Loader for Vue 3
 
